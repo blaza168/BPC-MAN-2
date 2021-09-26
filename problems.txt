@@ -18,7 +18,6 @@ National University of Central Buenos Aires,Argentina,10,178,17.80,Michael W Hin
 Phill S Goodall,8,123,15.38,Christopher D Palmer
 Rajendhar Junjuri,University of Hyderabad,India,7,31,IV.43
 Satoru Miura,1,27,27.00,Arijit Sengupta
-Sergei N Raikov,B
 Shazia Bashir,Government College University,Lahore,Pakistan,6,39,VI.50
 Sian Shore,4,61,15.25,Heikki Juhani Häkkänen
 Simon Carter,9,127,14.XI,An-Min Chen
