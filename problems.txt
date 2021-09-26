@@ -1,4 +1,4 @@
-Entries that doesn't follow standard. Fix manually in data set/create another pattern
+Entries that don't follow standard. Fix manually in data set/create another pattern
 <name>,<institute>,<country>,<publications_count>,<citation_count>,<citations_per_publication>
 
 Idaho National Laboratory,United States,1,18,18.00,T Linsmeyer
