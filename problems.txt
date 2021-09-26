@@ -1,0 +1,32 @@
+Entries that doesn't follow standard. Fix manually in data set/create another pattern
+<name>,<institute>,<country>,<publications_count>,<citation_count>,<citations_per_publication>
+
+Idaho National Laboratory,United States,1,18,18.00,T Linsmeyer
+John A Maxwell,1,92,92.00,Edwin Alexander Yates
+John Lavery,2,1,0.50,Abdul Jabbar
+Kazuyoshi Kurihara,University of Fukui,Japan,2,19,IX.50
+Kyle C Hartig,University of Florida,United States,2,21,X.50
+L Paulard,1,67,67.00,Shariar Abachi
+Lawrence Berkeley National Laboratory,United States,2,182,91.00,Yoni Groisman
+Lilian Cristina Trevizan,1,30,30.00,Tomitsugu Taguchi
+Majid Shamsipour,1,33,33.00,Sukesh Roy
+Marincan Pardede,Pelita Harapan University,Indonesia,11,92,VIII.36
+Masaki Ohata,National Institute of Advanced Industrial Science and Technology,Japan,2,13,VI.50
+Matthew Weidman,Max Planck Institute of Quantum Optics,Germany,2,19,IX.50
+Mohammad Javad Torkamany,Iranian National Center for Laser Science and Techology,Iran,2,21,X.50
+National University of Central Buenos Aires,Argentina,10,178,17.80,Michael W Hinds
+Phill S Goodall,8,123,15.38,Christopher D Palmer
+Rajendhar Junjuri,University of Hyderabad,India,7,31,IV.43
+Satoru Miura,1,27,27.00,Arijit Sengupta
+Sergei N Raikov,B
+Shazia Bashir,Government College University,Lahore,Pakistan,6,39,VI.50
+Sian Shore,4,61,15.25,Heikki Juhani Häkkänen
+Simon Carter,9,127,14.XI,An-Min Chen
+Syahrun Nur Abdulmadjid,Syiah Kuala University,Indonesia,8,78,IX.75
+Tristan Oliver Nagy,University of Vienna,Austria,2,19,IX.50
+University of Azad Jammu and Kashmir,Pakistan,1,19,19.00,Valeriy M Nemets
+University of Florida,United States,14,1,86,132.86,Lev Nagli
+University of Massachusetts Amherst,United States,8,165,20.63,Jagdish P Singh
+University of Tennessee at Knoxville,United States,10,184,18.40,Jakub Klus
+V Motto Ros,Claude Bernard University Lyon 1,France,2,23,XI.50
+Ziming Zhong,1,56,56.00,Giorgio Maddaluno
